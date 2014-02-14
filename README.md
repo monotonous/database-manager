@@ -8,3 +8,5 @@ Export all shipped orders to an excel file sorted by date shipped.
  Found under File -> Export -> Shipped Orders
  The file contains the order id, contact name, date ordered and the date shipped.
  Writes all shipped orders to a file called completed.xlsx
+
+Borrows A2DataSet from CS280 to use as a example database
